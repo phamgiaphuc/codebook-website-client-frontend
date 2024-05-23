@@ -1,0 +1,43 @@
+{
+  "btn": {
+    "back": "Quay lại",
+    "signin": "Đăng nhập",
+    "signup": "Đăng kí",
+    "about": "Giới thiệu",
+    "eng": "Tiếng Anh",
+    "vie": "Tiếng Việt",
+    "light": "Sáng",
+    "dark": "Tối",
+    "system": "Hệ thống"
+  },
+  "home": {
+    "hero": {
+      "title": "Khám Phá Tiềm Năng của Bạn trong Thế Giới Lập Trình với",
+      "subtitle": "Tham gia vào một cộng đồng sôi động của những lập trình viên đam mê và những người sáng tạo, cùng nhau hợp tác và vượt qua những ranh giới trong phát triển phần mềm và đổi mới sáng tạo",
+      "btn_join": "Tham gia ngay",
+      "btn_register": "Gia nhập ngay"
+    },
+    "about": {
+      "question_1": {
+        "title": "1. Codebook là gì ?",
+        "answer": "Codebook là một trang web xã hội được thiết kế để các lập trình viên và nhà phát triển kết nối, chia sẻ kiến ​​thức và cộng tác trong các dự án."
+      },
+      "question_2": {
+        "title": "2. Làm thế nào để có thể tham gia Codebook ?",
+        "answer": "Để tham gia Codebook, chỉ cần đăng ký bằng địa chỉ email của bạn hoặc đăng kí với các dịch vụ khác. Sau khi đăng ký, bạn có thể bắt đầu khám phá và đóng góp cho cộng đồng."
+      },
+      "question_3": {
+        "title": "3. Codebook có những nội dung gì ?",
+        "answer": "Codebook lưu trữ nhiều nội dung liên quan đến lập trình, bao gồm hướng dẫn, đoạn mã, giới thiệu dự án, thảo luận về ngôn ngữ và khung lập trình."
+      },
+      "question_4": {
+        "title": "4. Codebook có miễn phí không ?",
+        "answer": "Có, Codebook được sử dụng miễn phí cho tất cả thành viên. Không có phí đăng ký hoặc tính năng cao cấp bị khóa sau tường phí. Mọi người đều được chào đón tham gia và tham gia vào cộng đồng."
+      },
+      "question_5": {
+        "title": "5. Làm sao để có thể liên hệ tới ban quản trị của Codebook ?",
+        "answer": "Nếu bạn có bất kỳ câu hỏi, mối quan tâm hoặc phản hồi nào dành cho quản trị viên của Codebook, bạn có thể liên hệ với họ thông qua biểu mẫu liên hệ được cung cấp trên trang web. Ngoài ra, bạn cũng có thể gửi email trực tiếp cho họ theo địa chỉ admin@codebook.com. Họ sẽ sẵn lòng hỗ trợ bạn nếu bạn có bất kỳ thắc mắc nào về nền tảng này."
+      }
+    }
+  }
+}

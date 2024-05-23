@@ -1,0 +1,43 @@
+{
+  "btn": {
+    "back": "Go back",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "about": "About",
+    "eng": "English",
+    "vie": "Vietnamese",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "home": {
+    "hero": {
+      "title": "Unlock Your Potential in the World of Development with",
+      "subtitle": "Join a vibrant community of passionate developers and innovators, collaborating and pushing boundaries in software development and innovation.",
+      "btn_join": "Join now",
+      "btn_register": "Register now"
+    },
+    "about": {
+      "question_1": {
+        "title": "1. What is Codebook ?",
+        "answer": "Codebook is a social website designed for programmers and developers to connect, share knowledge, and collaborate on coding projects."
+      },
+      "question_2": {
+        "title": "2. How do I join Codebook ?",
+        "answer": "To join Codebook, simply sign up with your email address or connect with other services. Once you're signed up, you can start exploring and contributing to the community."
+      },
+      "question_3": {
+        "title": "3. What kind of content can I find on Codebook ?",
+        "answer": "Codebook hosts a wide range of content related to programming, including tutorials, code snippets, project showcases, discussions on programming languages and frameworks, and more."
+      },
+      "question_4": {
+        "title": "4. Is Codebook free to use ?",
+        "answer": "Yes, Codebook is free to use for all members. There are no subscription fees or premium features locked behind paywalls. Everyone is welcome to join and participate in the community."
+      },
+      "question_5": {
+        "title": "5. How can I contact the administrators of Codebook ?",
+        "answer": "If you have any questions, concerns, or feedback for the administrators of Codebook, you can reach out to them through the contact form provided on the website. Alternatively, you can also email them directly at admin@codebook.com. They'll be happy to assist you with any inquiries you may have about the platform."
+      }
+    }
+  }
+}
